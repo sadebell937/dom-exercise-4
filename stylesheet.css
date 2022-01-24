@@ -1,0 +1,14 @@
+button {
+    background-color: aqua;
+
+}
+
+.dotime {
+    height: 25px;
+    width: 25px;
+    background-color: gray;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
